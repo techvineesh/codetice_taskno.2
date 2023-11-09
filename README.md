@@ -1,6 +1,7 @@
 # codetice_taskno.2
-# Music Player Project
 This Python program creates a simple music player application using the Tkinter and Pygame libraries. It allows the user to play, stop, pause, resume music, add songs to a playlist, and play selected songs from the playlist.
+# Music Player Project
+
 ## Overview
 
 This Music Player project is a simple yet functional application built with Tkinter and Pygame's mixer module. It allows users to play, pause, stop, and resume music, as well as create and manage a playlist.
